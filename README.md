@@ -3,7 +3,7 @@
 
 # __Everything should be of interest__
 
-###一切都因兴趣使然
+一切都因兴趣使然
 
 
 <!--
