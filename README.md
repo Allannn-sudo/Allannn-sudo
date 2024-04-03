@@ -1,9 +1,9 @@
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Awayume/Awayume/main/img/snake.svg#gh-light-mode-only)
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Awayume/Awayume/main/img/snake_dark.svg#gh-dark-mode-only)
 
-Everything should be of interest
+###Everything should be of interest
 
-一切都因兴趣使然
+###一切都因兴趣使然
 
 
 <!--
