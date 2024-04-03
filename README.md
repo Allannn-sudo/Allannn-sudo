@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 -->
 ![ezgif-5-d8b1f08242](https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/8934be0f-3abe-422e-a940-10d79571560d)
 ![ezgif-5-c6bb0a3d86](https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/8c5e38cd-fae1-4628-aeb8-80eda7b3d712)
-![vjjeo](https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/248c3301-a0f4-440f-aca6-33c88fe1636f)
