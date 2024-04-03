@@ -1,11 +1,14 @@
-### Hi there 👋
+Everything should be of interest
+
+一切都因兴趣使然
+
 
 <!--
 **Allannn-sudo/Allannn-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/620a245c-5f48-47d4-9bb6-ce3f5401c764
+
