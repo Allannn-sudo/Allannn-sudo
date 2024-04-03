@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![ezgif-3-c3957f9a6b](https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/7a760cf3-dac9-49b1-81aa-fae26c27f33b)
-
-
+![ezgif-5-d8b1f08242](https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/8934be0f-3abe-422e-a940-10d79571560d)
 ![ezgif-5-c6bb0a3d86](https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/8c5e38cd-fae1-4628-aeb8-80eda7b3d712)
