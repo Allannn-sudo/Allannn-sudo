@@ -1,6 +1,4 @@
 
-![zZbL8WM2v](https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/819bc570-0ca3-449c-9ad6-8bf5a1b97fab)
-
 Everything should be of interest
 
 一切都因兴趣使然
