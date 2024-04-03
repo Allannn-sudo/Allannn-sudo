@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-![video](https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/0c1ecb0c-38a0-4aeb-b0bc-8c7ea7640d01)
+![ezgif-3-c3957f9a6b](https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/7a760cf3-dac9-49b1-81aa-fae26c27f33b)
