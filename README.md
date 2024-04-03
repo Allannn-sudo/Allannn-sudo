@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 
-https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/620a245c-5f48-47d4-9bb6-ce3f5401c764
 
+![video](https://github.com/Allannn-sudo/Allannn-sudo/assets/57735559/0c1ecb0c-38a0-4aeb-b0bc-8c7ea7640d01)
