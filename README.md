@@ -5,7 +5,7 @@
 
 - 🔭 Student @ UIUC ECE
 - 🌱 I’m currently learning Java, C, SystemVerilog, Python, Assembly Language...
-- 🤔 I’m looking for internship and research opportunity related to Software engineering and Hardware Verification
+- 🤔 I’m looking for internship and research opportunity related to Software Engineering and Hardware Verification
 - 📫 Reach me through email
 
 <!--
