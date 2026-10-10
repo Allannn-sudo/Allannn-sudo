@@ -3,7 +3,6 @@
 
 # __Everything should be of interest__
 
-- 🔭 Student @ UIUC ECE
 - 🌱 I’m currently learning Java, C, SystemVerilog, Python, Assembly Language...
 - 🤔 I’m looking for internship and research opportunity related to Software Engineering and Hardware Verification
 - 📫 Reach me through email
